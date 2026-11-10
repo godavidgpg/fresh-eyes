@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use or adapt fresh-eyes, please credit it like this."
+title: "fresh-eyes"
+type: software
+version: 1.0.0
+date-released: 2026-11-10
+authors:
+  - alias: godavidgpg
+    website: "https://github.com/godavidgpg"
+repository-code: "https://github.com/godavidgpg/fresh-eyes"
+license: CC-BY-4.0
+abstract: "An agent skill for QA that evaluates UI/UX and visual design the way a first-time human would. It judges screenshots before reading the DOM, then verifies with Playwright, and grounds findings in perception and HCI research. Builds on unslop by Damir Sokolovsky (CC BY 4.0) and Microsoft Playwright MCP."
+keywords:
+  - ux
+  - usability
+  - qa
+  - design-review
+  - accessibility
+  - claude
+  - skill
+references:
+  - type: software
+    title: "unslop"
+    authors:
+      - given-names: Damir
+        family-names: Sokolovsky
+        alias: heydamir
+    repository-code: "https://github.com/heydamir/unslop"
+    license: CC-BY-4.0
+  - type: software
+    title: "Playwright MCP"
+    authors:
+      - name: Microsoft
+    repository-code: "https://github.com/microsoft/playwright-mcp"
+    license: Apache-2.0

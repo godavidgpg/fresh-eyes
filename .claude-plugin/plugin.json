@@ -1,0 +1,10 @@
+{
+  "name": "fresh-eyes",
+  "version": "1.0.0",
+  "description": "QA skill that judges UI/UX and visual design the way a first-time human would: screenshot-first blind reading, then verification with Playwright.",
+  "author": { "name": "godavidgpg", "url": "https://github.com/godavidgpg" },
+  "homepage": "https://github.com/godavidgpg/fresh-eyes",
+  "repository": "https://github.com/godavidgpg/fresh-eyes",
+  "license": "CC-BY-4.0",
+  "keywords": ["ux", "ui", "qa", "usability", "design-review", "accessibility", "playwright", "skill"]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fresh Eyes"
+  short_description: "QA a UI the way a first-time human sees it: blind-first, then verify"
+  default_prompt: "Use $fresh-eyes to QA this screen as a first-time user would see it."

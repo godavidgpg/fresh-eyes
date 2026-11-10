@@ -1,0 +1,18 @@
+{
+  "name": "fresh-eyes",
+  "owner": { "name": "godavidgpg", "url": "https://github.com/godavidgpg" },
+  "metadata": {
+    "description": "Human-perspective UI/UX QA skill for Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "fresh-eyes",
+      "source": "./",
+      "description": "QA a UI the way a first-time human sees it: blind-first screenshot reading, cognitive walkthrough, state stress tests, unslop-style design scoring, and a report in the user's voice.",
+      "version": "1.0.0",
+      "license": "CC-BY-4.0",
+      "category": "design"
+    }
+  ]
+}

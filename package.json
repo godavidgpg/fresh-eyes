@@ -1,0 +1,15 @@
+{
+  "name": "fresh-eyes",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Agent skill for QA that judges UI/UX and visual design the way a first-time human would.",
+  "type": "module",
+  "scripts": {
+    "test": "node test/scripts.test.mjs",
+    "capture:example": "node skills/fresh-eyes/scripts/capture.mjs examples/sloppy-dashboard.html qa"
+  },
+  "devDependencies": {
+    "playwright": "^1.49.0"
+  },
+  "license": "CC-BY-4.0"
+}
